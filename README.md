@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @RajinCoder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning more about mobile development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RajinCoder/RajinCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a fourth-year Computer Science student at Northeastern University with hands-on experience building web and mobile applications, managing a personal homelab, and exploring networking and cybersecurity. I enjoy creating side projects that deepen my understanding of systems, infrastructure, and modern software development.
